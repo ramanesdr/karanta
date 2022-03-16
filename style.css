@@ -1,0 +1,11 @@
+.effet-hover:hover{
+    transform: scale(0.9);
+    background-color: rgb(51, 51, 255);
+color: aliceblue;
+}
+@media screen and (max-width: 800px) {
+    #I{
+        display: none;
+    }
+}
+    
